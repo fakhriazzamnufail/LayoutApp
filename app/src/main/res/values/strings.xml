@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutApp</string>
+    <string name="email">Email</string>
+    <string name="form_registrasi">Form Registrasi</string>
+    <string name="nama">Nama</string>
+    <string name="batal">Batal</string>
+    <string name="daftar">Daftar</string>
+</resources>
